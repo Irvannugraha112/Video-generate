@@ -1,0 +1,15 @@
+.venv
+venv
+__pycache__
+*.pyc
+.env
+.git
+.gitignore
+data/
+outputs/
+*.db
+*.mp4
+*.srt
+.DS_Store
+README.md
+.dockerignore
